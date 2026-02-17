@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
+    <name>Sketcher Auto Alias</name>
+    <description>Automatically creates spreadsheet aliases from name cells into the right neighbor value cells.</description>
+    <icon>resources/icons/toggle_auto_alias.svg</icon>
+    <version>0.1.0</version>
+    <date>2026-02-16</date>
+    <maintainer>Andre</maintainer>
+    <license file="LICENSE">MIT</license>
+
+    <!-- Replace REPLACE_WITH_YOUR_USER with your GitHub username/org before publishing. -->
+    <url type="repository" branch="main">https://github.com/REPLACE_WITH_YOUR_USER/SketcherAutoAlias</url>
+    <url type="bugtracker">https://github.com/REPLACE_WITH_YOUR_USER/SketcherAutoAlias/issues</url>
+    <url type="readme">https://raw.githubusercontent.com/REPLACE_WITH_YOUR_USER/SketcherAutoAlias/main/README.md</url>
+
+    <content>
+        <other>
+            <name>SketcherAutoAlias</name>
+            <description>Spreadsheet toolbar commands for automatic alias generation and manual sync.</description>
+            <subdirectory>./</subdirectory>
+        </other>
+    </content>
+</package>

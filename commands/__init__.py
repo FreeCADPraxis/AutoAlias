@@ -1,0 +1,2 @@
+"""GUI commands for SketcherAutoAlias."""
+
